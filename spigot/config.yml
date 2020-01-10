@@ -1,0 +1,18 @@
+#----------------------#
+
+
+world: 'world'
+
+min_players: 2
+
+mapa: 'Jungle'
+
+
+server: 3dfg43
+
+MySQL:
+  IP: 'localhost'
+  Porta: 3306
+  Database: 'testeplugin'
+  User: 'root'
+  Senha: '123456'

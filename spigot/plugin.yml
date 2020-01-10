@@ -1,0 +1,6 @@
+name: UltraWars
+version: 0.0.1a
+author: LuccaDEV
+main: com.ultrawars.lucca.main.Main
+commands:
+  sw:
